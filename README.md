@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🎓 Inha University · Computer Science & Engineering  
+📝 Blog — [leezintaek's devDay](https://leezintaek.github.io)
+
 <!--
 **leezintaek/leezintaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
